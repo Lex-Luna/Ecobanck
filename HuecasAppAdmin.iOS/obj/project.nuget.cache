@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QGD6Wm543AxImAFXKV44l0J9IwLQ5gw5cCX9EJ9HJA9ZdQnmODbRFnJ7w2GwRIBLKkwg/Dz7ceqnzNUciKTwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lex-l\\source\\repos\\HuecasAppAdmin\\HuecasAppAdmin.iOS\\HuecasAppAdmin.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lex-l\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\lex-l\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\lex-l\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\lex-l\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\lex-l\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512"
+  ],
+  "logs": []
+}

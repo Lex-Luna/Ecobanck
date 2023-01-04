@@ -1,0 +1,16 @@
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\HuecasAppAdmin.csproj.AssemblyReference.cache
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\HuecasAppAdmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\HuecasAppAdmin.AssemblyInfoInputs.cache
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\HuecasAppAdmin.AssemblyInfo.cs
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\HuecasAppAdmin.csproj.CoreCompileInputs.cache
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\HuecasAppAdmin.dll
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\refint\HuecasAppAdmin.dll
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\HuecasAppAdmin.pdb
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\Vistas\MenPrincipalV.xaml.g.cs
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\bin\Debug\netstandard2.0\HuecasAppAdmin.deps.json
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\bin\Debug\netstandard2.0\HuecasAppAdmin.dll
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\bin\Debug\netstandard2.0\HuecasAppAdmin.pdb
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\ref\HuecasAppAdmin.dll
