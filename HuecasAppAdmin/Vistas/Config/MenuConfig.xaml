@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HuecasAppAdmin.Vistas.Config.MenuConfig">
+    <Grid RowDefinitions="70,*">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="1,0">
+                <GradientStop  Color="#11ffdb" Offset="0.1"/>
+                <GradientStop  Color="#D6F4E7" Offset="1.0"/>
+            </LinearGradientBrush>
+            
+        </Grid.Background>
+        <ImageButton Source="fleAtras" BackgroundColor="Transparent"
+                     HorizontalOptions="Start" Margin="10,40,0,0"/>
+        <ScrollView Grid.Row="1">
+            <Grid  ColumnDefinitions="*,*" RowDefinitions="230,230,230">
+                <Frame CornerRadius="15" HasShadow="True" Margin="20">
+                    <StackLayout>
+                        <Frame   CornerRadius="100" BackgroundColor="#9CDDB1" HasShadow="False">
+                            <Image  Source="carritoBasura.png"  
+                                   HeightRequest="50"  />
+                        </Frame>
+                        <Label Text="Recolector" FontSize="20"
+                               VerticalOptions="Center" HorizontalOptions="Center"
+                               TextColor="#9CDDB1"/>
+                    </StackLayout>
+                </Frame>
+                <Frame CornerRadius="15" HasShadow="True" Margin="20" Grid.Column="1">
+                    <StackLayout>
+                        <Frame   CornerRadius="100" BackgroundColor="#9CDDB1" HasShadow="False">
+                            <Image  Source="carritoBasura.png"  
+                                   HeightRequest="50"  />
+                        </Frame>
+                        <Label Text="Recolector" FontSize="20"
+                               VerticalOptions="Center" HorizontalOptions="Center"
+                               TextColor="#9CDDB1"/>
+                    </StackLayout>
+                </Frame>
+                <Frame Grid.Row="1" CornerRadius="15" HasShadow="True" Margin="20">
+                    <StackLayout>
+                        <Frame   CornerRadius="100" BackgroundColor="#9CDDB1" HasShadow="False">
+                            <Image  Source="carritoBasura.png"  
+                                   HeightRequest="50"  />
+                        </Frame>
+                        <Label Text="Recolector" FontSize="20"
+                               VerticalOptions="Center" HorizontalOptions="Center"
+                               TextColor="#9CDDB1"/>
+                    </StackLayout>
+                </Frame>
+                <Frame Grid.Row="1"  Grid.Column="1" CornerRadius="15" HasShadow="True" Margin="20">
+                    <StackLayout>
+                        <Frame   CornerRadius="100" BackgroundColor="#9CDDB1" HasShadow="False">
+                            <Image  Source="carritoBasura.png"  
+                                   HeightRequest="50"  />
+                        </Frame>
+                        <Label Text="Recolector" FontSize="20"
+                               VerticalOptions="Center" HorizontalOptions="Center"
+                               TextColor="#9CDDB1"/>
+                    </StackLayout>
+                </Frame>
+                <Frame Grid.Row="2"  Grid.Column="0" CornerRadius="15" HasShadow="True" Margin="20">
+                    <StackLayout>
+                        <Frame   CornerRadius="100" BackgroundColor="#9CDDB1" HasShadow="False">
+                            <Image  Source="carritoBasura.png"  
+                                   HeightRequest="50"  />
+                        </Frame>
+                        <Label Text="Recolector" FontSize="20"
+                               VerticalOptions="Center" HorizontalOptions="Center"
+                               TextColor="#9CDDB1"/>
+                    </StackLayout>
+                </Frame>
+                <Frame Grid.Row="2"  Grid.Column="1" CornerRadius="15" HasShadow="True" Margin="20">
+                    <StackLayout>
+                        <Frame   CornerRadius="100" BackgroundColor="#9CDDB1" HasShadow="False">
+                            <Image  Source="carritoBasura.png"  
+                                   HeightRequest="50"  />
+                        </Frame>
+                        <Label Text="Recolector" FontSize="20"
+                               VerticalOptions="Center" HorizontalOptions="Center"
+                               TextColor="#9CDDB1"/>
+                    </StackLayout>
+                </Frame>
+            </Grid>
+        </ScrollView>
+    </Grid>
+</ContentPage>

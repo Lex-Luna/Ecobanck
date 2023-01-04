@@ -639,3 +639,4 @@ C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\res\drawable\conf.png
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\res\drawable\admin.png
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\res\drawable\fleatras.png
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\res\drawable\carritobasura.png

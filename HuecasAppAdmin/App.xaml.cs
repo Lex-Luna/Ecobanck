@@ -5,13 +5,15 @@ using Xamarin.Forms.Xaml;
 
 namespace HuecasAppAdmin
 {
+    using Vistas.Config;
     public partial class App : Application
     {
+        
         public App()
         {
             InitializeComponent();
 
-            MainPage = new MenPrincipalV();
+            MainPage = new MenuConfig();
         }
 
         protected override void OnStart()
