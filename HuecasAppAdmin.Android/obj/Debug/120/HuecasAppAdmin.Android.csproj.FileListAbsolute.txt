@@ -640,3 +640,9 @@ C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\res\drawable\admin.png
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\res\drawable\fleatras.png
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\res\drawable\carritobasura.png
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\android\assets\Firebase.Auth.dll
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\android\assets\Firebase.dll
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\android\assets\LiteDB.dll
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\android\assets\System.Reactive.dll
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin.Android\obj\Debug\120\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll

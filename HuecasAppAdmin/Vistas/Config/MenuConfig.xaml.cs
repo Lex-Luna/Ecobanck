@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HuecasAppAdmin.VistasModelo;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,8 @@ namespace HuecasAppAdmin.Vistas.Config
         public MenuConfig()
         {
             InitializeComponent();
+            BindingContext = new MenuConfigVM(Navigation);
+
         }
     }
 }

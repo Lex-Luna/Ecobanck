@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using HuecasAppAdmin.VistasModelo;
 
 namespace HuecasAppAdmin.Vistas
 {
@@ -15,6 +16,7 @@ namespace HuecasAppAdmin.Vistas
         public MenPrincipalV()
         {
             InitializeComponent();
+            BindingContext = new MenuPrincipalVM(Navigation);
         }
     }
 }

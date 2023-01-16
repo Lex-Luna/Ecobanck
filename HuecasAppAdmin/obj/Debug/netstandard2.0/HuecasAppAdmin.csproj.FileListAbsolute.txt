@@ -15,3 +15,4 @@ C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\bin\Debug\netstandard2
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\ref\HuecasAppAdmin.dll
 C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\Vistas\Config\MenuConfig.xaml.g.cs
+C:\Users\lex-l\source\repos\HuecasAppAdmin\HuecasAppAdmin\obj\Debug\netstandard2.0\Vistas\RecolectoresConfig.xaml.g.cs

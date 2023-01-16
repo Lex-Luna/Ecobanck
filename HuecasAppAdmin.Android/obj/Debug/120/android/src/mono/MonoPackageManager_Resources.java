@@ -3,8 +3,13 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "HuecasAppAdmin.Android.dll" comes first in this list. */
 		"HuecasAppAdmin.Android.dll",
+		"Firebase.Auth.dll",
+		"Firebase.dll",
 		"FormsViewGroup.dll",
 		"HuecasAppAdmin.dll",
+		"LiteDB.dll",
+		"Newtonsoft.Json.dll",
+		"System.Reactive.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",
