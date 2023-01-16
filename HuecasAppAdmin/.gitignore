@@ -60,9 +60,10 @@ dlldata.c
 *.tmp
 *.tmp_proj
 *.log
-*.vspscc
+*.vsidx
+*.pscc
 *.vssscc
-.builds
+*.builds
 *.pidb
 *.svclog
 *.scc
@@ -127,6 +128,7 @@ DocProject/Help/*.hhk
 DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
+obj\Debug
 
 # Click-Once directory
 publish/
