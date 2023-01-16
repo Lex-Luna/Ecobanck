@@ -60,9 +60,10 @@ dlldata.c
 *.tmp
 *.tmp_proj
 *.log
-*.vspscc
+*.vsidx
+*.pscc
 *.vssscc
-.builds
+*.builds
 *.pidb
 *.svclog
 *.scc
