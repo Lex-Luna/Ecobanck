@@ -127,6 +127,7 @@ DocProject/Help/*.hhk
 DocProject/Help/*.hhp
 DocProject/Help/Html2
 DocProject/Help/html
+obj\Debug
 
 # Click-Once directory
 publish/
